@@ -1,0 +1,11 @@
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\bin\Debug\netcoreapp3.1\RatInMaze.exe
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\bin\Debug\netcoreapp3.1\RatInMaze.deps.json
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\bin\Debug\netcoreapp3.1\RatInMaze.runtimeconfig.json
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\bin\Debug\netcoreapp3.1\RatInMaze.runtimeconfig.dev.json
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\bin\Debug\netcoreapp3.1\RatInMaze.dll
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\bin\Debug\netcoreapp3.1\RatInMaze.pdb
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\obj\Debug\netcoreapp3.1\RatInMaze.csprojAssemblyReference.cache
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\obj\Debug\netcoreapp3.1\RatInMaze.AssemblyInfoInputs.cache
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\obj\Debug\netcoreapp3.1\RatInMaze.AssemblyInfo.cs
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\obj\Debug\netcoreapp3.1\RatInMaze.dll
+C:\Users\talor\source\repos\RatInMaze\RatInMaze\obj\Debug\netcoreapp3.1\RatInMaze.pdb

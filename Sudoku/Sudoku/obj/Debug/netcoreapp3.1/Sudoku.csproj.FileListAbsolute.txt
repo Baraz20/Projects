@@ -1,0 +1,11 @@
+C:\Users\talor\source\repos\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.exe
+C:\Users\talor\source\repos\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.deps.json
+C:\Users\talor\source\repos\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.json
+C:\Users\talor\source\repos\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.dev.json
+C:\Users\talor\source\repos\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\talor\source\repos\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.pdb
+C:\Users\talor\source\repos\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfoInputs.cache
+C:\Users\talor\source\repos\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfo.cs
+C:\Users\talor\source\repos\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\talor\source\repos\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.pdb
+C:\Users\talor\source\repos\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csprojAssemblyReference.cache
