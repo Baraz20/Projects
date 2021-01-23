@@ -2,6 +2,6 @@
 
 > Tal Baraz Shahar
 
-Notes:
+Note:
 - I AM FOLLOWING A TOTURIAL BY Corey Schafer https://github.com/CoreyMSchafer/
 - Watch the commits to see the progress 
